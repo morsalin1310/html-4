@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.in{
+    height: 1800px;
+    width: 600px;
+    background-color: rgb(96, 218, 175);
+    margin: 0 auto;   /*middle point asbe */
+    position: relative;
+    
+
+
+}
+.m {
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: 500px;
+    background-color: rgb(242, 9, 48);
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%,-50%);
+    
+    position: absolute;
+  
+  
+}
+.w{
+    top: 33.333%;
+    left: 0;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(248, 254, 250);
+    margin: 0 auto; 
+
+    position: absolute;
+
+}
+.d{
+    top: 50%;
+    left: 50%;
+    height: 80px;
+    width: 130px;
+    
+    position: absolute;
+    transform: translate(-50%,-50%); 
+
+}
+.o{
+    top: 0%;
+    left: 0;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(243, 148, 15);
+
+    position: absolute;
+
+}
+.g{
+    top: 66.666%;
+    left: 0;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(8, 94, 37);
+
+    position: absolute;
+
+}
+.algeria {
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: 500px;
+    background-color: rgb(242, 9, 48);
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+    
+    position: absolute;
+  
+  
+}
+.gr{
+    top: 0%;
+    left: 0;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(136, 24, 24);
+    
+
+    position: absolute;
+
+}
+.wh{
+    top: 33.33%;
+    left: 0;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(52, 56, 108);
+
+    position: absolute;
+
+}
+.ar{
+    top: 66.66%;
+    left: 0;
+    height: 100px;
+    width: 500px;
+    background-color: rgb(179, 129, 41);
+
+    position: absolute;
+
+}
+.belgium {
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: 450px;
+    background-color: rgb(242, 9, 48);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    
+    position: absolute;
+  
+  
+}
+.black{
+    top: 0;
+    left: 0%;
+    height: 300px;
+    width: 150px;
+    background-color: rgb(0, 0, 0);
+    
+
+    position: absolute;
+
+}
+.yellow{
+    left: 33.33%;
+    top: 0;
+    height: 300px;
+    width: 150px;
+    background-color: rgb(255, 201, 52);
+
+    position: absolute;
+
+}
+.red{
+    left: 66.66%;
+    top: 0;
+    height: 300px;
+    width: 150px;
+    background-color: rgb(244, 7, 7);
+
+    position: absolute;
+
+}
+
+
+
+
+.bur {
+    top: 0;
+    left: 0;
+    height: 300px;
+    width: 450px;
+    background-color: rgb(242, 9, 48);
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%,-50%);
+    
+    
+    position: relative;
+  
+  
+}
+.re{
+    top: 0%;
+    left: 0;
+    height: 150px;
+    width: 450px;
+    background-color: rgb(100, 6, 6);
+    
+
+    position: absolute;
+
+}
+.s{
+    
+    background: rgb(247, 255, 9);
+    left: 50%;
+    top: 40%;
+    height: 80px;
+    width: 130px;
+    transform: translate(-50%,-50%); 
+    /* position: absolute; */
+    
+  
+    border-radius: 80%;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); 
+   
+
+
+} 
+.green{
+    top: 50%;
+    left: 0;
+   
+    height: 150px;
+    width: 450px;
+    background-color: rgb(14, 97, 14);
+
+    position: absolute;
+
+}

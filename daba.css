@@ -1,0 +1,40 @@
+/* Basic Reset */
+* {
+    
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  /* Chessboard styles */
+  .chessboard {
+    display: grid;
+    grid-template-columns: repeat(8, 60px); /* 8 columns */
+    grid-template-rows: repeat(8, 60px);    /* 8 rows */
+    border: 2px solid #925e5e;
+    width: 480px;
+    height: 480px;
+    font-size: 50px;
+  }
+  
+  .square {
+    width: 60px;
+    height: 60px;
+  }
+  
+ 
+  .light {
+    background-color: #f5e1c2;
+  }
+  
+  .dark {
+    background-color: #aa805e;
+  }  
+  
